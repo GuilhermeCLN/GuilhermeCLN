@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hello , I'm Guilherme. Welcome to my github! </b>
+<h1 align="center"><b>Hello, I'm Guilherme. Welcome to my GitHub! </b>
 
 
 <br>
