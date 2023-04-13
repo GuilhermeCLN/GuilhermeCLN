@@ -17,8 +17,9 @@
 - I’m currently open for a new job opportunity, this is [my LinkedIn](https://www.linkedin.com/in/guilherme-nascimento-933bb1170/)
 
 <br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+-----
 
 ## <img src="https://istevit.in/public/imgs/tech.gif" width ="60"><b> Skills</b>
 <br>
@@ -81,7 +82,8 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+-----
 <br>
 <br>
 <br>
