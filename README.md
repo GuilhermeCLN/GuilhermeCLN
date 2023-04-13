@@ -1,22 +1,21 @@
 
 <h1 align="center"><b>Hello, I'm Guilherme. Welcome to my GitHub! </b>
 
-
 <br>
 
-	
-## <picture><img src = "https://user-images.githubusercontent.com/105398141/209039869-df23826d-9b77-47ee-8543-647844af91ce.png" width = 50px></picture> **About me**
+## <picture><img src = "   https://cdn-icons-png.flaticon.com/512/561/561743.png " width = 40px></picture> **About me**
 
 <picture> <img align="right" src="https://www.datamanagements.in/wp-content/uploads/2022/01/gif.gif" width = 400px></picture>
 
 <br>
 
 - I am a Data Scientist and a Production Engineer with a great passion for statistics
+- I'm interested in Data Science and Analytics, Business Inteligence and Data engineering
 - I worked over two years with Business Process Modeling and Project Management
 - Currently learning PySpark on Udemy
-- I’m currently open for a new job opportunity, this is [my LinkedIn](https://www.linkedin.com/in/guilherme-nascimento-933bb1170/)
+- I’m currently open for a new job opportunity, this is [my LinkedIn](https://www.linkedin.com/in/guilherme-cln/)
 
-<br><br>
+<br>
 <br>
 
 -----
@@ -39,6 +38,7 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Power BI](https://img.shields.io/badge/Power_BI-white?style=for-the-badge&logo=Power%20BI&logoColor=F2C811)
     ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 
 <br>
@@ -55,10 +55,8 @@
 <br>
 
 -----
-<br>
-<br>
 
-## <img src="https://media.tenor.com/uXmi5JfKGjkAAAAi/fostbump-bumpfist.gif" width ="60"><b> Let's Connect!</b>
+## <img src="https://media.tenor.com/uXmi5JfKGjkAAAAi/fostbump-bumpfist.gif" width ="50"><b> Let's Connect!</b>
 <br>
 <div align='left'>
 
@@ -82,14 +80,6 @@
 </div>
 
 <br>
+<br>
 
 -----
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
----
