@@ -3,7 +3,7 @@
 
 <br>
 
-## <picture><img src = "   https://cdn-icons-png.flaticon.com/512/561/561743.png " width = 40px></picture> **About me**
+## <picture><img src = "https://cdn-icons-png.flaticon.com/512/561/561743.png" width = 40px></picture> **About me**
 
 <picture> <img align="right" src="https://www.datamanagements.in/wp-content/uploads/2022/01/gif.gif" width = 400px></picture>
 
