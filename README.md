@@ -9,11 +9,9 @@
 
 <br>
 
-- I am a Data Scientist and a Production Engineer with a great passion for statistics
+- I am a Business Intelligence Analyst and a Production Engineer with a great passion for statistics
 - I'm interested in Data Science and Analytics, Business Inteligence and Data engineering
 - I worked over two years with Business Process Modeling and Project Management
-- Currently learning PySpark on Udemy
-- I’m currently open for a new job opportunity, this is [my LinkedIn](https://www.linkedin.com/in/guilherme-cln/)
 
 <br>
 <br>
