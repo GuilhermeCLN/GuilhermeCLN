@@ -9,7 +9,7 @@
 
 <br>
 
-- I am a Business Intelligence Analyst and a Production Engineer with a great passion for statistics
+- I am a Data Analyst and a Production Engineer with a great passion for statistics
 - I'm interested in Data Science and Analytics, Business Inteligence and Data engineering
 - I worked over two years with Business Process Modeling and Project Management
 
